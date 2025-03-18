@@ -1,0 +1,5 @@
+# Abaikan konfigurasi editor & OS
+*/.vscode/
+*/.idea/
+*/.DS_Store
+*/.fleet/
